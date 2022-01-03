@@ -1,0 +1,45 @@
+{
+    "wx_userid": "314082@tal",
+    "wx_corp_id": "wwd5426ca702f206e3",
+    "send_type": 1,
+    "start_time": 10,
+    "msg_type": 1,
+    "messages": [
+        {
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                }
+            ],
+            "wx_ext_userids": [
+                "wmmDoiDgAATi85UxCcm53082RjJqLuCw",
+                "wmmDoiDgAAcuQef_HIH0v78NU5yCm2lg",
+                "wmmDoiDgAAo7H8ZpD7ubf7FeS84_EMGw"
+            ]
+        },
+        {
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 1,
+                    "content": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                }
+            ],
+            "wx_ext_userids": [
+                "wmmDoiDgAAa7Vc0KdbQlbHnlGHqQHbYQ",
+                "wmmDoiDgAACGDO2_fNgejf-KdyCqE-kA",
+                "wmmDoiDgAArMSIypZB3Dk_NyWrxLggzg",
+                "wmmDoiDgAAo7H8ZpD7ubf7FeS84_EMGw"
+            ]
+        }
+    ],
+    "callback_url": "http://scrmtest.100tal.com/callback/batchmsg_result"
+}

@@ -1,0 +1,560 @@
+{
+    "wx_userid": "314082@tal",
+    "wx_corp_id": "ww52a7c2800aa50cf4",
+    "send_type":2 ,
+    
+    "msg_type": 1,
+    "messages": [
+        {
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 4,
+                    "video_duration": 249,
+                    "video_path": "https://ssztactivitystatic.speiyou.com/prod/2021/06/16/300790e0cea511eb85fb6b0ae46dfd93/%E5%B7%A9%E5%9B%BA2.mp4"
+                }
+            ],
+            "wx_ext_userids": [
+                "womDoiDgAAPIbGWL7TVr9MN_0prh5nZA"
+            ]
+        },
+		{
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 4,
+                    "video_duration": 249,
+                    "video_path": "https://ssztactivitystatic.speiyou.com/prod/2021/06/16/300790e0cea511eb85fb6b0ae46dfd93/%E5%B7%A9%E5%9B%BA2.mp4"
+                }
+            ],
+            "wx_ext_userids": [
+                "womDoiDgAAPIbGWL7TVr9MN_0prh5nZA"
+            ]
+        },{
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 4,
+                    "video_duration": 249,
+                    "video_path": "https://ssztactivitystatic.speiyou.com/prod/2021/06/16/300790e0cea511eb85fb6b0ae46dfd93/%E5%B7%A9%E5%9B%BA2.mp4"
+                }
+            ],
+            "wx_ext_userids": [
+                "womDoiDgAAPIbGWL7TVr9MN_0prh5nZA",
+                "wmmDoiDgAACGDO2_fNgejf-KdyCqE-kA",
+                "wmmDoiDgAAoSSVmBlU8HQw0My7CUm6Qg"
+            ]
+        },
+		{
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 4,
+                    "video_duration": 249,
+                    "video_path": "https://ssztactivitystatic.speiyou.com/prod/2021/06/16/300790e0cea511eb85fb6b0ae46dfd93/%E5%B7%A9%E5%9B%BA2.mp4"
+                }
+            ],
+            "wx_ext_userids": [
+                "wmmDoiDgAAcuQef_HIH0v78NU5yCm2lg",
+                "wmmDoiDgAAC_GqFN8HEj7B9xXntSNoNQ",
+                "womDoiDgAAPIbGWL7TVr9MN_0prh5nZA"
+            ]
+        },
+		{
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 4,
+                    "video_duration": 249,
+                    "video_path": "https://ssztactivitystatic.speiyou.com/prod/2021/06/16/300790e0cea511eb85fb6b0ae46dfd93/%E5%B7%A9%E5%9B%BA2.mp4"
+                }
+            ],
+            "wx_ext_userids": [
+                "wmmDoiDgAAcuQef_HIH0v78NU5yCm2lg",
+                "wmmDoiDgAAC_GqFN8HEj7B9xXntSNoNQ",
+                "womDoiDgAAPIbGWL7TVr9MN_0prh5nZA"
+            ]
+        },
+		{
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 4,
+                    "video_duration": 249,
+                    "video_path": "https://ssztactivitystatic.speiyou.com/prod/2021/06/16/300790e0cea511eb85fb6b0ae46dfd93/%E5%B7%A9%E5%9B%BA2.mp4"
+                }
+            ],
+            "wx_ext_userids": [
+                "wmmDoiDgAAcuQef_HIH0v78NU5yCm2lg",
+                "wmmDoiDgAAC_GqFN8HEj7B9xXntSNoNQ",
+                "womDoiDgAAPIbGWL7TVr9MN_0prh5nZA"
+            ]
+        },
+		{
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 4,
+                    "video_duration": 249,
+                    "video_path": "https://ssztactivitystatic.speiyou.com/prod/2021/06/16/300790e0cea511eb85fb6b0ae46dfd93/%E5%B7%A9%E5%9B%BA2.mp4"
+                }
+            ],
+            "wx_ext_userids": [
+                "womDoiDgAAPIbGWL7TVr9MN_0prh5nZA"
+            ]
+        },
+		{
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 4,
+                    "video_duration": 249,
+                    "video_path": "https://ssztactivitystatic.speiyou.com/prod/2021/06/16/300790e0cea511eb85fb6b0ae46dfd93/%E5%B7%A9%E5%9B%BA2.mp4"
+                }
+            ],
+            "wx_ext_userids": [
+                "womDoiDgAAPIbGWL7TVr9MN_0prh5nZA",
+                "wmmDoiDgAAoSSVmBlU8HQw0My7CUm6Qg"
+            ]
+        },
+		{
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 4,
+                    "video_duration": 249,
+                    "video_path": "https://ssztactivitystatic.speiyou.com/prod/2021/06/16/300790e0cea511eb85fb6b0ae46dfd93/%E5%B7%A9%E5%9B%BA2.mp4"
+                }
+            ],
+            "wx_ext_userids": [
+                "wmmDoiDgAAcuQef_HIH0v78NU5yCm2lg",
+                "womDoiDgAAPIbGWL7TVr9MN_0prh5nZA"
+            ]
+        },
+		{
+            "content_list": [
+                {
+                    "content_type": 1,
+                    "content": "111111"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 2,
+                    "image_path": "http://xesfile.xesimg.com/bizcrm-dev/download/202001/17ed521d2b89ca6d1456e391ac3bba22.jpeg"
+                },
+                {
+                    "content_type": 5,
+                    "url_address": "https://www.baidu.com/",
+                    "url_icon": "https://www.baidu.com/img/flexible/logo/pc/result@2.png",
+                    "url_title": "百度",
+                    "url_desc": "这是百度链接"
+                },
+                {
+                    "content_type": 4,
+                    "video_duration": 249,
+                    "video_path": "https://ssztactivitystatic.speiyou.com/prod/2021/06/16/300790e0cea511eb85fb6b0ae46dfd93/%E5%B7%A9%E5%9B%BA2.mp4"
+                }
+            ],
+            "wx_ext_userids": [
+                "womDoiDgAAPIbGWL7TVr9MN_0prh5nZA"
+            ]
+        }
+        
+    ],
+    "callback_url": "http://scrmtest.100tal.com/callback/batchmsg_result"
+}

@@ -3,7 +3,7 @@
  * @version:
  * @Author: Nan Kang
  * @Date: 2022-01-03 20:08:31
- * @LastEditTime: 2022-01-03 21:24:39
+ * @LastEditTime: 2022-01-03 22:05:27
  * @LastEditors: Do not edit
  */
 package main
@@ -22,6 +22,13 @@ func myFun(funvar func(int, int) int, num1 int, num2 int) int {
 }
 func myFun2(funvar myFunType, num1 int, num2 int) int {
 	return funvar(num1, num2)
+}
+
+//支持对函数返回值命名
+func getSumAndSub(n1 int, n2 int) (sum int, sub int) {
+	sum = n1 + n2
+	sub = n1 - n2
+	return sum, sub
 }
 func main() {
 	a := getSum
@@ -43,4 +50,9 @@ func main() {
 
 	res3 := myFun2(getSum, 500, 600)
 	fmt.Println("res3=", res3)
+
+	//看案例
+	//支持返回值重命名
+	sumRes, subRes := getSumAndSub(1, 2)
+	fmt.Printf("a=%v,b=%v\n", sumRes, subRes)
 }

@@ -3,7 +3,7 @@
  * @version:
  * @Author: Nan Kang
  * @Date: 2022-01-03 20:08:31
- * @LastEditTime: 2022-01-03 22:05:27
+ * @LastEditTime: 2022-01-03 22:29:44
  * @LastEditors: Do not edit
  */
 package main
@@ -30,6 +30,15 @@ func getSumAndSub(n1 int, n2 int) (sum int, sub int) {
 	sub = n1 - n2
 	return sum, sub
 }
+func knSum(n1 int, vars ...int) int {
+	sum := n1
+	//遍历args
+	for i := 0; i < len(vars); i++ {
+		//args[0]第一个元素的值
+		sum += vars[i]
+	}
+	return sum
+}
 func main() {
 	a := getSum
 	fmt.Printf("a的类型%T,getSum类型是%T\n", a, getSum)
@@ -55,4 +64,8 @@ func main() {
 	//支持返回值重命名
 	sumRes, subRes := getSumAndSub(1, 2)
 	fmt.Printf("a=%v,b=%v\n", sumRes, subRes)
+
+	//测试一下可变参数的使用
+	res4 := knSum(10, 6, 70, 8, 9, 0, 8, 6, 5, 6)
+	fmt.Println("res4=", res4)
 }

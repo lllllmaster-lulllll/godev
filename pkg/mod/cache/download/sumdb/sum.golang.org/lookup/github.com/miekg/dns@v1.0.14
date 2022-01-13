@@ -3,7 +3,7 @@ github.com/miekg/dns v1.0.14 h1:9jZdLNd/P4+SfEJ0TNyxYpsK8N4GtfylBLqtbYN1sbA=
 github.com/miekg/dns v1.0.14/go.mod h1:W1PPwlIAgtquWBMBEV9nkV9Cazfe8ScdGz/Lj7v3Nrg=
 
 go.sum database tree
-8052037
-DHCxWsHWIIkRBlAqCFy7euX1KnUbH0wkvLykBz9DzS8=
+8649778
+HWCLLJrs8VA22R+YjJnd48HFdUGmDeghQIysZ4sDfGQ=
 
-— sum.golang.org Az3grvyvh417dHUgB+mkzw77CXQ3f/FwyULUtdvSduhXXNSgVY5T0PXXNtEwTI632osrWCkuW2eanQY4QbeBmBXf6gs=
+— sum.golang.org Az3grpA4mw3Mu4wjvyTaNrJLA7vIsjbVmuX1DuZX5HZmXF+92bH9ZcKwzmRgOeL9fZCJzjr1QtIFxh47k7lMEjDxCQs=

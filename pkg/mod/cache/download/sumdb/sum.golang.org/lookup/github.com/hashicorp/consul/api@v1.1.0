@@ -3,7 +3,7 @@ github.com/hashicorp/consul/api v1.1.0 h1:BNQPM9ytxj6jbjjdRPioQ94T6YXriSopn0i8CO
 github.com/hashicorp/consul/api v1.1.0/go.mod h1:VmuI/Lkw1nC05EYQWNKwWGbkg+FbDBtguAZLlVdkD9Q=
 
 go.sum database tree
-8029116
-myk2i9aBcF6CSeGwBIVsMP1KWPWQ4gQ9emcqjj0I1hY=
+8658381
+96gasJZ2YI/0ImRlixO4/rxn51FQQqVBISGmRr8GkVw=
 
-— sum.golang.org Az3grvM2sb9hFQu0NLaP0Qs5pIH/261HtOZpwybBsmXNDin1kQeAXqfU+Jsqqb9JVf1JuGsBbGMnsFiF2oQFAJyBvwU=
+— sum.golang.org Az3grlmISgVklPlDTsE8ktekfSymMYY+00WAPml8KZEkfWPH2i80b1Lo3ql3Fxf67jhbjtjVNGw+0UAC+xCIU3B2zg4=

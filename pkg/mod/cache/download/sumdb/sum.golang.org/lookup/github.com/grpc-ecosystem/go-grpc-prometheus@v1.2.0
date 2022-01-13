@@ -3,7 +3,7 @@ github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0 h1:Ovs26xHkKqVztRpIrF/92Bcuy
 github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0/go.mod h1:8NvIoxWQoOIhqOTXgfV/d3M/q6VIi02HzZEHgUlZvzk=
 
 go.sum database tree
-8047109
-BN86qwR4+MXy6QO8H0fZPzztV7cXhA7ZKCsP6dXIBQ8=
+8658381
+96gasJZ2YI/0ImRlixO4/rxn51FQQqVBISGmRr8GkVw=
 
-— sum.golang.org Az3grvqzz4wPpIxpqAYhowgHJgyk0nS6z975cRPbemLhaWHuGhs5MDBKWlorgxld8UGkbS27YLUD4fqSUhl7g96JcQk=
+— sum.golang.org Az3grlmISgVklPlDTsE8ktekfSymMYY+00WAPml8KZEkfWPH2i80b1Lo3ql3Fxf67jhbjtjVNGw+0UAC+xCIU3B2zg4=

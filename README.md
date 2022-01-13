@@ -3,7 +3,7 @@
  * @version: 
  * @Author: Nan Kang
  * @Date: 2022-01-03 20:15:28
- * @LastEditTime: 2022-01-08 16:45:09
+ * @LastEditTime: 2022-01-08 16:49:22
  * @LastEditors: Do not edit
 -->
 ## github使用练习
@@ -14,3 +14,4 @@
 
 ### 上传了学习到defer的内容
 # 继续学习
+ls

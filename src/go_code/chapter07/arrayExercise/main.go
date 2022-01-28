@@ -1,6 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"math/rand"
+	"time"
+)
 
 func main() {
 	//创建一个byte类型的26个元素的数组，分别放置‘A’-‘Z’。
@@ -36,5 +40,24 @@ func main() {
 		sum += float64(value)
 	}
 	fmt.Printf("数组的平均值为%v\n", sum/float64(len(intArr2)))
+
+	//要求:随机生成五个数,并将其反转打印
+	//思路
+	//1. 随机生成五个数,rand.Intn()函数
+	//2. 得到随机数后,就放到一个数组中 int数组
+	//3. 反转打印,交换的次数是 len/2
+	var intArr3 [5]int
+	rand.Seed(time.Now().UnixNano())
+	for i := 0; i < len(intArr3); i++ {
+		intArr3[i] = rand.Intn(100) //0<=n<=100
+	}
+	fmt.Println(intArr3)
+	var temp int = 0
+	for i := 0; i < len(intArr3)/2; i++ {
+		temp = intArr3[i]
+		intArr3[i] = intArr3[len(intArr3)-1-i]
+		intArr3[len(intArr3)-1-i] = temp
+	}
+	fmt.Println(intArr3)
 
 }

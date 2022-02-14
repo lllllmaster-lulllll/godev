@@ -21,12 +21,13 @@ func (s Monster) Print() {
 func (s Monster) GetSum(n1, n2 int) int {
 	return n1 + n2
 }
-func (s Monster) Set(name string, age int, score float64, sex string) {
-	s.Name = name
-	s.Age = age
-	s.Score = score
-	s.Sex = sex
-}
+
+// func (s Monster) Set(name string, age int, score float64, sex string) {
+// 	s.Name = name
+// 	s.Age = age
+// 	s.Score = score
+// 	s.Sex = sex
+// }
 func TestStruct(a interface{}) {
 	typ := reflect.TypeOf(a)
 	val := reflect.ValueOf(a)

@@ -2,7 +2,9 @@ package main
 
 import (
 	"fmt"
+	"go_code/chatroom/server/model"
 	"net"
+	"time"
 )
 
 func process(conn net.Conn) {
@@ -20,9 +22,20 @@ func process(conn net.Conn) {
 		return
 	}
 }
+
+//编写一个函数,完成 UserDao 的初始化任务
+func initUserDao() {
+	model.MyUserDao = model.NewUserDao(pool)
+}
+func init() {
+	//当服务器启动时,初始化 redis 的连接池
+	initPool("localhost:6379", 16, 0, 300*time.Second)
+	initUserDao()
+}
 func main() {
+
 	//提示信息
-	fmt.Println("服务器[面向对象版本]在 8889 端口监听...")
+	fmt.Println("服务器[面向对象版本] 在 8889 端口监听...")
 	listen, err := net.Listen("tcp", "0.0.0.0:8899")
 	if err != nil {
 		fmt.Println("net.Listen err=", err)
